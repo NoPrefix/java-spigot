@@ -1,0 +1,15 @@
+name: TNTRun
+version: 1.0
+main: de.t23t.tntrun.TNTRun
+author: t23t
+
+commands:
+  setup:
+    usage: /setup <setspawn/setdeath/setend/setfirework>
+    permission: tntrun.setup
+  start:
+    usage: /start
+    permission: tntrun.start
+  build:
+    usage: /build
+    permission: tntrun.build

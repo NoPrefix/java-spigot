@@ -1,0 +1,11 @@
+name: RushReloaded
+version: 1.0.0
+main: me.noprefix.rr.RushReloaded
+author: NoPrefix
+
+commands:
+ rushreloaded:
+  aliases: [rr, rush]
+ start:
+  permission: rushreloaded.start
+  aliases: [startgame]

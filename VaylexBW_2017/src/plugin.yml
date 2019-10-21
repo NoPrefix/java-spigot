@@ -1,0 +1,10 @@
+name: Bedwars
+version: 1.2
+author: NoPrefix
+main: net.noprefix.bedwars.Main.Main
+
+commands:
+  setup:
+  forcemap:
+  stats:
+  start:
